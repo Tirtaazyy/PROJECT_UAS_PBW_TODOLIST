@@ -15,7 +15,7 @@ body{background:#f5f3ff;font-family:Segoe UI;}
 .telat{color:#dc3545;font-weight:600;}
 .aman{color:#198754;font-weight:600}
 
-/* toast */
+
 .toast-box{
   position:fixed;
   top:20px;
@@ -104,3 +104,4 @@ function selesai(id){
 
 </body>
 </html>
+
